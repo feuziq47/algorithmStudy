@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13331bd0-33fe-4122-9066-92ff09de9403" name="Default Changelist" comment="" />
+    <list default="true" id="13331bd0-33fe-4122-9066-92ff09de9403" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_study/nandm_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm_study/nandm_9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nandm_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nandm_9.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZCdLK0Ex1Uv618632rO3QDyndk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,22 +31,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.nandm_9">
-    <configuration name="nandm_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nandm_5" />
+  <component name="RunManager" selected="Application.IntenseHeat">
+    <configuration name="IntenseHeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntenseHeat" />
       <module name="algorithm_study" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nandm_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nandm_6" />
+    <configuration name="NumberOfWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOfWays" />
       <module name="algorithm_study" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntenseHeat" />
+        <item itemvalue="Application.NumberOfWays" />
         <item itemvalue="Application.nandm_9" />
         <item itemvalue="Application.nandm_8" />
         <item itemvalue="Application.nandm_7" />
-        <item itemvalue="Application.nandm_6" />
-        <item itemvalue="Application.nandm_5" />
       </list>
     </recent_temporary>
   </component>
@@ -84,6 +95,12 @@
       <workItem from="1584346954895" duration="4304000" />
       <workItem from="1584442291726" duration="22000" />
       <workItem from="1584515643472" duration="24852000" />
+      <workItem from="1584681156440" duration="207000" />
+      <workItem from="1584681411477" duration="7020000" />
+      <workItem from="1584770912680" duration="44000" />
+      <workItem from="1584938187749" duration="13509000" />
+      <workItem from="1585037815638" duration="4611000" />
+      <workItem from="1585199337209" duration="2656000" />
     </task>
     <servers />
   </component>
@@ -91,29 +108,65 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="72" y="182" key="#Auto_Import" timestamp="1584681704712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="72" y="182" key="#Auto_Import/0.0.1920.1040@0.0.1920.1040" timestamp="1584681704712" />
+    <state x="1032" y="182" key="#Notifications" timestamp="1585200569343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="182" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1585200569343" />
+    <state x="833" y="267" key="#Plugins" timestamp="1584681601925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="267" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1584681601925" />
     <state x="552" y="178" key="#Project_Structure" timestamp="1584347089480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1584347089480" />
-    <state width="914" height="273" key="GridCell.Tab.0.bottom" timestamp="1584630632784">
+    <state x="1226" y="393" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584959447000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584630632784" />
-    <state width="914" height="273" key="GridCell.Tab.0.center" timestamp="1584630632784">
+    <state x="1226" y="393" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1584959447000" />
+    <state x="210" y="270" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1584687286888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584630632784" />
-    <state width="914" height="273" key="GridCell.Tab.0.left" timestamp="1584630632784">
+    <state x="210" y="270" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584687286888" />
+    <state x="1043" y="30" key="CommitChangelistDialog2" timestamp="1585202643088">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584630632784" />
-    <state width="914" height="273" key="GridCell.Tab.0.right" timestamp="1584630632784">
+    <state x="1043" y="30" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585202643088" />
+    <state width="913" height="219" key="GridCell.Tab.0.bottom" timestamp="1585051042982">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584630632784" />
-    <state x="1132" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584515643910">
+    <state width="913" height="219" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585051042982" />
+    <state width="913" height="219" key="GridCell.Tab.0.center" timestamp="1585051042982">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1132" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584515643910" />
+    <state width="913" height="219" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585051042982" />
+    <state width="913" height="219" key="GridCell.Tab.0.left" timestamp="1585051042982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="913" height="219" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585051042982" />
+    <state width="913" height="219" key="GridCell.Tab.0.right" timestamp="1585051042982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="913" height="219" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585051042982" />
+    <state x="0" y="165" key="SettingsEditor" timestamp="1585038243080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585038243080" />
+    <state x="1132" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585199339860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1132" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585199339860" />
+    <state x="1243" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585202505429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1243" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585202505429" />
+    <state x="904" y="318" width="672" height="678" key="search.everywhere.popup" timestamp="1584953024937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="904" y="318" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584953024937" />
   </component>
 </project>

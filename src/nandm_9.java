@@ -1,5 +1,5 @@
-import java.util.Scanner;
-import java.util.Stack;
+
+import java.util.*;
 
 public class nandm_9 {
     static int n,m;
@@ -17,16 +17,17 @@ public class nandm_9 {
         for(int i=0; i<n; i++){
             intArr[i] = sc.nextInt();
         }
-
-        for(int i=0; i<n-1; i++){
-            for(int j=i+1; j<n; j++){
-                if(intArr[i]>intArr[j]){
-                    int temp = intArr[i];
-                    intArr[i]= intArr[j];
-                    intArr[j]= temp;
-                }
-            }
+        HashSet<Integer> tempSet = new HashSet<Integer>();
+        for(int i=0; i<intArr.length; i++){
+            tempSet.add(intArr[i]);
         }
+        n= tempSet.size();
+        Iterator it = tempSet.iterator();
+
+
+
+
+
 
         recur(0, "",0);
         System.out.println(sb.toString().trim());
