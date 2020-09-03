@@ -1,2 +1,4 @@
-# algorithmStudy
-Self algorithm study
+# 알고리즘 테스트 준비
+
+### 파이썬 기본
+* [기본](python.md)
