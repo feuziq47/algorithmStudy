@@ -22,6 +22,8 @@ append, popleft 메서드 사용
 스택 대신에 사용된다.  
 * [경쟁적전염](/DFS,BFS/경쟁적전염.py)
 * [감시피하기](/DFS,BFS/감시피하기.py)
+* [BFS](/DFS,BFS/BFS.py)
+* [DFS](/DFS,BFS/DFS.py)
 ## Reference
 
 [_이것이 취업을 위한 코딩테스트다 with Python by 나동빈_](https://www.youtube.com/watch?v=Lytj_xcw8mE&list=PLRx0vPvlEmdBFBFOoK649FlEMouHISo8N)
