@@ -40,7 +40,27 @@ array = [[0]*m for _ in range(n)]
 - Immutable 자료형을 키로 사용할 수 있다
 - 데이터의 검색 및 수정에 O(1)의 속도로 처리 가능
 - keys(), values() 지원
+- get() method  
+dict에서 키 값에 해당하는 값을 호출할 때, 해당 키 값이 없는 경우에 초기화 값을 지정해주는 메서드
+```python
+# 프로그래머스 여행경로 문제 예
+# tickets 리스트를 dict로 바꾸는 과정
 
+tickets = [["ICN", "JFK"], ["HND", "IAD"], ["JFK", "HND"]]
+routes = {}
+
+# get을 사용하지 않음
+for start, end in tickets:
+    if start in routes.keys():
+        routes[start].append(end)
+    else:
+        routes[start]=[end]
+
+# get을 사용한 예
+for (start, end) in tickets:
+    routes[start] = routes.get(start, []) + [end]
+
+```
 ## Set
 
 - 중복 불허, 순서가 없음
@@ -106,3 +126,5 @@ combinations_with_replacement : 중복 허용 조합
 - bisect : 이진 탐색 기능을 제공하는 라이브러리
 - collections : 덱, 카운터 등을 포함하는 라이브러리
 - eval : 수식 input의 결과를 반환한다
+
+
