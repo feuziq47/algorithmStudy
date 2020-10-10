@@ -4,6 +4,7 @@
 
 * [Basic](/basic/pythonbasic.md)
 * [문자열 일정 길이로 자르기](/basic/문자열/일정_길이로_자르기.py)
+* [filter, reduce](/basic/functools.py)
 
 ## 구현
 
